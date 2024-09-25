@@ -27,4 +27,9 @@
 
          - sudo cp scriptName.sh /user/local/bin
 
-3.  finally do not missed make follow and give me you feedback for these script and goodluck
+3.  Now you can use it when you want as follow:
+
+         - extract fileName.{zip, xz, gz, rar etc} or any component in the same way
+
+
+4.  finally do not missed make follow and give me you feedback for these script and goodluck
