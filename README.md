@@ -18,7 +18,7 @@
 
 - to install this component on your Linux disto follow these setup:
 
-        - git clone  
+        - git clone https://github.com/abdalrahmanalkayyali02/component.git
 
 1.  install git reposotry to you device
 
